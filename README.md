@@ -5,11 +5,9 @@ Current list of components:
 
 Raspbery Pi 3
 NooElec mini SDR/DVB-T (used for an AIS receiver)
-  > looking at other options to also build a receiver for Navtex   
+looking at other options to also build a receiver for Navtex   
 BU-353S4 GPS (Looking at getting a Adafruit Ultimate GPS to future imbed)
-Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 (using as a gyro/mag/ROT compass)
-  > Driving this compass, I plan to use a Ardunio Pro Mini or something similar) sending NMEA data 
-    to the server
+Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 (using as a gyro/mag/ROT compass) Driving this compass, I plan to use a Ardunio Pro Mini or something similar) sending NMEA data to the server
 SN65HVD230 CAN board to connect to a NMEA 2000 network
 I should be able to connect to NMEA 0183 diectly to Raspi?
 
